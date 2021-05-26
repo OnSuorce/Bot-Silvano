@@ -1,0 +1,27 @@
+commands:
+  help: shows this message
+  ping: pong
+  prefix: shows the server's prefix for Silvano
+  setprefix: changes prefix to the specified in the argument >> setprefix <newprefix>
+  join: joins your voice channel
+  leave: leaves the voice channel
+  ciao : says hi
+  lolstats : returns the url of the user specified in the arguments >> lolstats <nickname> <region>   (replace spaces with "+")
+  purge : deletes the amount of messages specified in the argument >> purge <amount>
+  autorole : sets the role to give when a member joins the server >> autorole <@roles>
+  avatar: returns the avatar of the mentioned member >> avatar <@user>
+  random : returns a random number between the numbers given in the arguments >> random <min> <max>
+  biosacchi : returns the link of my friend's portfolio
+  randomsacchi: plays a random sacchi's voice line
+  votedisconnect: starts a poll to disconnect an user from your voice channel >> votedisconnect <@membertodisconnect>
+
+status_change_timer: 30
+status_pool: 
+  - sacchi culo
+  - FIFA 21
+  - Fortnite
+  - Roblox
+  - Grand Theft Auto IV
+  - Incasinarti il server
+token: ODI5NDA1NDAxNDIxNTc4Mjkw.YG3p-Q.FrFG1_-9JDoBclyj033Zll4YYAg
+
